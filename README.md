@@ -61,8 +61,6 @@ The main agenda of this project is:
 
 >>**DEPLOY** the Machine learning model via **Flask** that can be used to make live predictions of restaurants ratings
 
-A step by step guide is attached to this documnet as well as a video explanation of each concept.
-
 ![ZOMATO2](https://user-images.githubusercontent.com/92631457/157186235-e470b99e-366e-4e90-885d-553b6cfcd448.png)
 
 
