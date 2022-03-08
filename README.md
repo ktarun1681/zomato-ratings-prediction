@@ -90,3 +90,4 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 
 * Use multiple Algorithms
 * Optimize Flask app.py
+* Front End
