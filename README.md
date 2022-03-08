@@ -72,12 +72,9 @@ A step by step guide is attached to this documnet as well as a video explanation
 │   ├── css
 ├── template
 │   ├── home.html
-├── Procfile
 ├── README.md
 ├── app.py
-├── flight_price.ipynb
-├── flight_rf.pkl
-├── requirements.txt
+├── zoamtoratingsprediction.ipynb
 ```
 
 ## Technologies Used
