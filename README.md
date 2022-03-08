@@ -73,6 +73,8 @@ The main agenda of this project is:
 ├── README.md
 ├── app.py
 ├── zoamtoratingsprediction.ipynb
+├── final_df.csv
+
 ```
 
 ## Technologies Used
