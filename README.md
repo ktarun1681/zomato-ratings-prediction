@@ -1,25 +1,6 @@
 # **End-To-End Deployment of Zomato Restaurant Ratings:**
 
 
-## Directory Tree 
-```
-├── static 
-│   ├── css
-├── template
-│   ├── home.html
-├── Procfile
-├── README.md
-├── app.py
-├── flight_price.ipynb
-├── flight_rf.pkl
-├── requirements.txt
-```
-
-## Technologies Used
-
-![](https://forthebadge.com/images/badges/made-with-python.svg)
-
-[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
 
 
 ![ZOMATO1](https://user-images.githubusercontent.com/92631457/157185903-fc671274-77c7-498f-8f92-86a5590c8e23.png)
@@ -77,6 +58,38 @@ The main agenda of this project is:
 >> Perform extensive **Exploratory Data Analysis(EDA)** on the Zomato Dataset.
 
 >>Build an appropriate **Machine Learning Model** that will help various Zomato Restaurants to predict their respective Ratings based on certain features
+
+
+
+## Directory Tree 
+```
+├── static 
+│   ├── css
+├── template
+│   ├── home.html
+├── Procfile
+├── README.md
+├── app.py
+├── flight_price.ipynb
+├── flight_rf.pkl
+├── requirements.txt
+```
+
+## Technologies Used
+
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
+
+
+## Bug / Feature Request
+
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/ktarun1681/Flight-Fare-Prediction/issues) here by including your search query and the expected result
+
+## Future Scope
+
+* Use multiple Algorithms
+* Optimize Flask app.py
 
 >>**DEPLOY** the Machine learning model via **Flask** that can be used to make live predictions of restaurants ratings
 
